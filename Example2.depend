@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1660616969 source:e:\project\codeblock\test1\get_example\example2\example2\personclass.cpp
+	"PersonClass.hpp"
+	<iostream>
+	<cstring>
+
+1660597507 source:e:\project\codeblock\test1\get_example\example2\example2\main.cpp
+	<iostream>
+	"PersonClass.hpp"
+	"TeacherClass.hpp"
+
+1660595744 e:\project\codeblock\test1\get_example\example2\example2\personclass.hpp
+	<string>
+
+1660596605 source:e:\project\codeblock\test1\get_example\example2\example2\teacherclass.cpp
+	"TeacherClass.hpp"
+	<iostream>
+	<cstring>
+
+1660596298 e:\project\codeblock\test1\get_example\example2\example2\teacherclass.hpp
+	"PersonClass.hpp"
+
+1660625676 source:d:\cpp\example_z\example2\main.cpp
+	<iostream>
+	"PersonClass.hpp"
+	"TeacherClass.hpp"
+
+1660595744 d:\cpp\example_z\example2\personclass.hpp
+	<string>
+
+1660596298 d:\cpp\example_z\example2\teacherclass.hpp
+	"PersonClass.hpp"
+
+1660616969 source:d:\cpp\example_z\example2\personclass.cpp
+	"PersonClass.hpp"
+	<iostream>
+	<cstring>
+
+1660596605 source:d:\cpp\example_z\example2\teacherclass.cpp
+	"TeacherClass.hpp"
+	<iostream>
+	<cstring>
+
+1660622233 source:d:\cpp\example_z\example2\studentclass.cpp
+	"StudentClass.hpp"
+	<iostream>
+	<cstring>
+
+1660622261 d:\cpp\example_z\example2\studentclass.hpp
+	"PersonClass.hpp"
+
+1660622721 source:d:\cpp\example_z\example2\managerclass.cpp
+	"ManagerClass.hpp"
+	<iostream>
+	<cstring>
+
+1660622734 d:\cpp\example_z\example2\managerclass.hpp
+	"PersonClass.hpp"
+
+1660622974 source:d:\cpp\example_z\example2\employeeclass.cpp
+	"EmployeeClass.hpp"
+	<iostream>
+	<cstring>
+
+1660622972 d:\cpp\example_z\example2\employeeclass.hpp
+	"PersonClass.hpp"
+
